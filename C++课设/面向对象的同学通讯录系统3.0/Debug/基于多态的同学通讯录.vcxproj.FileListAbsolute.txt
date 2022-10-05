@@ -1,0 +1,10 @@
+C:\Users\莫辞\Desktop\C++面向对象的程序设计\2021年2020级《面向对象课程设计》\基于多态的同学通讯录\Debug\面向对象的同学通讯录系统.exe
+C:\Users\莫辞\Desktop\C++面向对象的程序设计\2021年2020级《面向对象课程设计》\基于多态的同学通讯录\Debug\面向对象的同学通讯录系统.pdb
+C:\Users\莫辞\Desktop\C++面向对象的程序设计\2021年2020级《面向对象课程设计》\同学通讯录系统\Debug\面向对象的同学通讯录系统.exe
+C:\Users\莫辞\Desktop\C++面向对象的程序设计\2021年2020级《面向对象课程设计》\同学通讯录系统\Debug\面向对象的同学通讯录系统.pdb
+C:\Users\莫辞\Desktop\同学通讯录系统1.0 - 副本\Debug\面向对象的同学通讯录系统.exe
+C:\Users\莫辞\Desktop\同学通讯录系统1.0 - 副本\Debug\面向对象的同学通讯录系统.pdb
+C:\Users\莫辞\Desktop\同学通讯录系统3.0 - 副本\Debug\面向对象的同学通讯录系统.exe
+C:\Users\莫辞\Desktop\同学通讯录系统3.0 - 副本\Debug\面向对象的同学通讯录系统.pdb
+C:\Users\莫辞\Desktop\同学通讯录系统3.0\Debug\面向对象的同学通讯录系统.exe
+C:\Users\莫辞\Desktop\同学通讯录系统3.0\Debug\面向对象的同学通讯录系统.pdb
